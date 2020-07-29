@@ -7,10 +7,19 @@ Tailwind plugin for adding various brands as background, border and text colors.
 Add this plugin to your project:
 
 ```sh
-npm install tailwind-brand-colors --save
+npm install tailwindcss-brand-colors --save
 ```
 
 ## Usage
+
+Add it to the plugins array of your Tailwind config:
+
+```js
+// tailwind.config.js
+plugins: [require("tailwindcss-brand-colors")],
+```
+
+[See the list of all brand colors available here](https://github.com/praveenjuge/tailwindcss-brand-colors/blob/master/index.js)
 
 For background color:
 
