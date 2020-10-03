@@ -1,6 +1,6 @@
 # Tailwindcss Brand Colors
 
-Tailwind plugin for adding various brands as background, border and text colors. This plugin requires **Tailwind CSS 1.6** or later.
+Tailwind plugin for adding brands colors as background, border and text colors.
 
 ## Installation
 
@@ -36,7 +36,7 @@ For border color:
 For text color:
 
 ```html
-<div class="text-reddit">Hello World</div>
+<p class="text-reddit">Hello World</p>
 ```
 
 ## Add your own colors

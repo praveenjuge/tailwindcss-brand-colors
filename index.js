@@ -1,5 +1,3 @@
-const plugin = require("tailwindcss/plugin");
-
 const colors = {
   adobe: "#ff0000",
   airbnb: "#fd5c63",
@@ -18,13 +16,16 @@ const colors = {
   etsy: "#d5641c",
   evernote: "#2dbe60",
   facebook: "#3b5998",
+  feedly: "#2bb24c",
   github: "#333",
+  gitlab: "#fc6d26",
   google: "#4285f4",
   instagram: "#e1306c",
   linkedin: "#0077b5",
   messenger: "#0084ff",
   microsoft: "#f65314",
   netflix: "#e50914",
+  pinterest: "e60023",
   pocket: "#ef4056",
   react: "#00d8ff",
   reddit: "#ff4500",
@@ -49,4 +50,4 @@ const colors = {
   vue: "#42b883",
 };
 
-module.exports = plugin(function () {}, { theme: { extend: { colors } } });
+module.exports = require("tailwindcss/plugin")(function () {}, { theme: { extend: { colors } } });

@@ -1,24 +1,24 @@
 {
   "name": "tailwindcss-brand-colors",
-  "version": "0.1.0",
-  "description": "Tailwind plugin for adding various brands as background, border and text colors.",
+  "version": "0.2.0",
+  "description": "Tailwind plugin for adding brands colors as background, border and text colors.",
   "main": "index.js",
   "author": "praveenjuge",
   "license": "MIT",
-  "homepage": "https://github.com/praveenjuge/tailwind-brand-colors#readme",
-  "scripts": {},
+  "homepage": "https://github.com/praveenjuge/tailwindcss-brand-colors#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/praveenjuge/tailwind-brand-colors.git"
+    "url": "git+https://github.com/praveenjuge/tailwindcss-brand-colors.git"
   },
   "keywords": [
     "tailwindcss",
+    "tailwindcss-plugin",
     "brand-colors"
   ],
   "bugs": {
-    "url": "https://github.com/praveenjuge/tailwind-brand-colors/issues"
+    "url": "https://github.com/praveenjuge/tailwindcss-brand-colors/issues"
   },
   "devDependencies": {
-    "tailwindcss": "^1.6.0"
+    "tailwindcss": "^1.8.10"
   }
 }
