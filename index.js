@@ -9,7 +9,7 @@ const colors = {
   codepen: "#0ebeff",
   dailymotion: "#00aaff",
   deviantart: "#05cc47",
-  discord: "#7289da",
+  discord: "#5865F2",
   dribbble: "#ea4c89",
   dropbox: "#007ee5",
   duolingo: "#7ac70c",
