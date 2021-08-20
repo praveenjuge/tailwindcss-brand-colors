@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-brand-colors",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Tailwind plugin for adding brands colors as background, border and text colors.",
   "main": "index.js",
   "author": "praveenjuge",
