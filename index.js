@@ -25,7 +25,7 @@ const colors = {
   messenger: "#0084ff",
   microsoft: "#f65314",
   netflix: "#e50914",
-  pinterest: "e60023",
+  pinterest: "#e60023",
   pocket: "#ef4056",
   react: "#00d8ff",
   reddit: "#ff4500",
