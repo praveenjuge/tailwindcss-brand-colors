@@ -49,6 +49,7 @@ const colors = {
   whatsapp: "#075e54",
   wikipedia: "#000000",
   youtube: "#ff0000",
+  x: "#000000",
 };
 
 module.exports = require("tailwindcss/plugin")(function () {}, { theme: { extend: { colors } } });
