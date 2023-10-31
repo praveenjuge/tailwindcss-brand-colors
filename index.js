@@ -6,6 +6,7 @@ const colors = {
   android: "#a4c639",
   atlassian: "#003366",
   behance: "#1769ff",
+  binance: '#f3ba2f',
   codepen: "#0ebeff",
   dailymotion: "#00aaff",
   deviantart: "#05cc47",
